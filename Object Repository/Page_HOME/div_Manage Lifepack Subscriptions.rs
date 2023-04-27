@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Manage Lifepack Subscriptions</name>
+   <tag></tag>
+   <elementGuidId>f7950984-888e-4afa-9ede-3ed6fe3fe272</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sidebar']/div/ul/li[13]/div/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>76b5bb33-f20b-4b07-82a1-8bcae13a1582</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>notifiable</value>
+      <webElementGuid>2e085cfb-fb0a-4259-9239-a9b4212e7e9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Lifepack Subscriptions</value>
+      <webElementGuid>7c03b12d-fbcf-473e-b0d2-29031408acf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar&quot;)/div[@class=&quot;menu&quot;]/ul[@class=&quot;menu-list&quot;]/li[@class=&quot;wrapper&quot;]/div[@class=&quot;span-menu dis-flex align-center&quot;]/a[@class=&quot;dis-flex-important&quot;]/div[@class=&quot;notifiable&quot;]</value>
+      <webElementGuid>9cdd4258-3f92-452a-8f1e-c4cf296abf9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidebar']/div/ul/li[13]/div/a/div</value>
+      <webElementGuid>e15e90bb-1610-4c77-aeb6-e853e25b475e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery'])[1]/following::div[4]</value>
+      <webElementGuid>97e681d0-9562-44d9-af88-3dff05424c5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Packaging'])[1]/following::div[7]</value>
+      <webElementGuid>95bc1f2d-9714-4a3b-9d94-e6a41a886519</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monitor Lifepack Subscriptions'])[1]/preceding::div[6]</value>
+      <webElementGuid>ae93c120-f221-4111-9202-cb2f5f4a5902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Review Marketplace Prescription'])[1]/preceding::div[9]</value>
+      <webElementGuid>37a021d3-b42d-446a-a43a-549d98ae09d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage Lifepack Subscriptions']/parent::*</value>
+      <webElementGuid>037cb311-e937-489e-b90e-b044953422a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[13]/div/a/div</value>
+      <webElementGuid>a92ce192-c583-4ec6-a18c-904e487a3c97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Manage Lifepack Subscriptions' or . = 'Manage Lifepack Subscriptions')]</value>
+      <webElementGuid>284f20c8-c931-44d3-b738-d1ef0d6c9ab5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

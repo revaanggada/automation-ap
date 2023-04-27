@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add New Prescription</name>
+   <tag></tag>
+   <elementGuidId>8725ea8c-51b0-4185-b885-d7945dd3bb18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sidebar']/div/ul/li[13]/ul/li[5]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ded2e7ba-303a-4e37-a374-f6583caf0a3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>notifiable</value>
+      <webElementGuid>4e6d3b98-3422-487e-b12d-2214ac6fc7a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add New Prescription</value>
+      <webElementGuid>700e3476-e10f-408a-8703-83db9751a3d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar&quot;)/div[@class=&quot;menu&quot;]/ul[@class=&quot;menu-list&quot;]/li[@class=&quot;wrapper&quot;]/ul[1]/li[@class=&quot;wrapper dont-have-subs-menu&quot;]/a[@class=&quot;dis-flex-important&quot;]/div[@class=&quot;notifiable&quot;]</value>
+      <webElementGuid>c46a4946-158f-4669-9a24-14f3bbdecbd3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidebar']/div/ul/li[13]/ul/li[5]/a/div</value>
+      <webElementGuid>c7456930-fb3b-4bcf-9e9e-88cd6d3331ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Generate Partner Invoice'])[1]/following::div[3]</value>
+      <webElementGuid>6853fc0f-0c64-4192-9643-cabd0df0d077</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Generate Patient Invoice'])[1]/following::div[6]</value>
+      <webElementGuid>87207ef1-7f1a-406e-a579-9a5047202852</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Review Prescription'])[1]/preceding::div[3]</value>
+      <webElementGuid>5c4e138c-4a27-48c0-9914-b28b19efbaf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adjustment Prescription'])[1]/preceding::div[6]</value>
+      <webElementGuid>c508fb61-5837-4610-9bb7-df0c496afda3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add New Prescription']/parent::*</value>
+      <webElementGuid>38328015-7132-4c05-84a4-6ccd66536198</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[13]/ul/li[5]/a/div</value>
+      <webElementGuid>b5c80d1e-5992-4d61-a63d-89423670dfce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Add New Prescription' or . = 'Add New Prescription')]</value>
+      <webElementGuid>b03cc108-5880-4618-b539-beced8f438e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
