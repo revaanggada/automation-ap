@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_No. Handphone  No. Polis_input</name>
+   <tag></tag>
+   <elementGuidId>e0097920-4223-43c0-ac41-f37eeb3ee7cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.control.has-icons-left > input.input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>64829394-0783-4fa9-aa95-0a9284e22686</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>75f8fe41-b336-4363-af18-6b16a4bc904f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Phone Number / Policy Number</value>
+      <webElementGuid>15f41466-5dd8-4418-84dd-6b1a9594f801</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d7ccb370-7e28-4086-a23d-49a022198e5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;manual-order-pharmapack&quot;)/div[@class=&quot;card-content&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns is-variable&quot;]/div[@class=&quot;column is-7&quot;]/div[@class=&quot;colums mt-4&quot;]/nav[@class=&quot;panel&quot;]/div[@class=&quot;panel-block&quot;]/div[@class=&quot;columns&quot;]/div[@class=&quot;column is-three-quarters&quot;]/p[@class=&quot;control has-icons-left&quot;]/input[@class=&quot;input&quot;]</value>
+      <webElementGuid>26a85477-c460-4462-bf89-39406ce9eb66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[3]</value>
+      <webElementGuid>763dd684-661e-4153-83d6-14c5f0967af7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='manual-order-pharmapack']/div/div/div/div[2]/div[4]/nav/div/div/div[2]/p/input</value>
+      <webElementGuid>43762a22-b495-429e-9b1f-b21e653f772c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/input</value>
+      <webElementGuid>066216a1-6763-4628-a835-a46e7a824bd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Phone Number / Policy Number']</value>
+      <webElementGuid>0e7c9c29-e9cb-4af1-ac3c-fe17a213973c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

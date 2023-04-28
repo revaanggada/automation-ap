@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_BIOTIN</name>
+   <tag></tag>
+   <elementGuidId>09ef7f36-0693-4b72-8ad6-9dcffd8854d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='add-medication-dialog']/div/div[2]/section/div[2]/div/div[3]/div[2]/div/div/div/table/tbody/tr/td/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>25534799-9df5-4b17-9cf2-5762735cf913</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BIOTIN</value>
+      <webElementGuid>a7d0d6bc-9bd1-41af-9b1d-ebf3fb2c7488</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-medication-dialog&quot;)/div[@class=&quot;modal is-active&quot;]/div[@class=&quot;modal-card medication-dialog-add-parent&quot;]/section[@class=&quot;modal-card-body medication-dialog-edit-children&quot;]/div[2]/div[@class=&quot;dis-flex flex-col&quot;]/div[@class=&quot;field dis-flex&quot;]/div[@class=&quot;field-body dis-flex&quot;]/div[@class=&quot;dis-flex flex-col&quot;]/div[@class=&quot;dropdown&quot;]/div[@class=&quot;dropdown-content show&quot;]/table[@class=&quot;table is-fullwidth is-hoverable medication-options&quot;]/tbody[1]/tr[1]/td[1]/p[1]</value>
+      <webElementGuid>8bbc360f-ded8-4033-b94f-131b2e019491</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='add-medication-dialog']/div/div[2]/section/div[2]/div/div[3]/div[2]/div/div/div/table/tbody/tr/td/p</value>
+      <webElementGuid>027175f4-d531-4b1a-904b-ebe4e490c2db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama'])[1]/following::p[1]</value>
+      <webElementGuid>9b901df7-cba3-49aa-a8f8-9de16d3e7fcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Produk*'])[1]/following::p[1]</value>
+      <webElementGuid>2907d460-e603-4f0d-bb2b-4fca0cbab8f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stock'])[1]/preceding::p[1]</value>
+      <webElementGuid>5398ecb8-c3cd-455e-bc66-104300874a9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Harga'])[1]/preceding::p[2]</value>
+      <webElementGuid>16e2408b-1a13-4550-88a5-97261cfd85a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BIOTIN']/parent::*</value>
+      <webElementGuid>0a38ce83-a772-425f-aa50-3045fd529f54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/p</value>
+      <webElementGuid>1df03ec7-1a5e-4cd2-999a-ed4f49cf8fb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'BIOTIN' or . = 'BIOTIN')]</value>
+      <webElementGuid>3f05405c-8c00-43b5-9548-9a68797740bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

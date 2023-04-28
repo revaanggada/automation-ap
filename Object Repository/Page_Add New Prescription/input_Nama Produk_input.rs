@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Nama Produk_input</name>
+   <tag></tag>
+   <elementGuidId>053ea6fd-190e-4301-9ef5-88b60ac9563b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='add-medication-dialog']/div/div[2]/section/div[2]/div/div[3]/div[2]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d018609d-28f7-49ce-a2cf-a51cb1462c53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f72570ee-047d-4d6a-97e7-2d9ae85b1af1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-medication-dialog&quot;)/div[@class=&quot;modal is-active&quot;]/div[@class=&quot;modal-card medication-dialog-add-parent&quot;]/section[@class=&quot;modal-card-body medication-dialog-edit-children&quot;]/div[2]/div[@class=&quot;dis-flex flex-col&quot;]/div[@class=&quot;field dis-flex&quot;]/div[@class=&quot;field-body dis-flex&quot;]/div[@class=&quot;dis-flex flex-col&quot;]/input[@class=&quot;input&quot;]</value>
+      <webElementGuid>61e01c21-aca7-44e8-bede-9237b59032d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='add-medication-dialog']/div/div[2]/section/div[2]/div/div[3]/div[2]/div/input</value>
+      <webElementGuid>c06de8d3-06bc-428d-91e7-bcb200455af0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/input</value>
+      <webElementGuid>4dbd8806-d8c4-488d-bca6-0db70457cbe3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

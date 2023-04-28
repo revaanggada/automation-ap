@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Instruksi_input</name>
+   <tag></tag>
+   <elementGuidId>73fb7faa-048f-46bb-adf7-13090ffe8077</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.field-body.is-block > div.dis-flex > input.input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='add-medication-dialog']/div/div[2]/section/div[2]/div/div[8]/div[2]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>4f3dd72d-6aaf-43dd-940c-8e72844871c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>c88e7258-a3f4-4de6-a7ff-fb4159a98e63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c3570fd8-a6db-41e5-912d-9d04c4235edd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-medication-dialog&quot;)/div[@class=&quot;modal is-active&quot;]/div[@class=&quot;modal-card medication-dialog-add-parent&quot;]/section[@class=&quot;modal-card-body medication-dialog-edit-children&quot;]/div[2]/div[@class=&quot;dis-flex flex-col&quot;]/div[@class=&quot;field dis-flex&quot;]/div[@class=&quot;field-body is-block&quot;]/div[@class=&quot;dis-flex&quot;]/input[@class=&quot;input&quot;]</value>
+      <webElementGuid>97427699-ca0d-41fa-8f14-29396b0b9e95</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='add-medication-dialog']/div/div[2]/section/div[2]/div/div[8]/div[2]/div/input</value>
+      <webElementGuid>6187ed05-1178-4c52-bfc1-a37a166c450c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[2]/div/input</value>
+      <webElementGuid>fc62b195-4de8-4247-a112-fe78527da309</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

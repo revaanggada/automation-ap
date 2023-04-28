@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select WarehouseLifepack ManyarEcomm_00a59f</name>
+   <tag></tag>
+   <elementGuidId>5c889afb-95d5-41db-babe-9799c1081d3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='manual-order-pharmapack']/div/div/div/div[2]/div[6]/nav/div/div[2]/div[2]/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>b395cc8c-12d7-43b8-bfe2-e091b57c1daf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select WarehouseLifepack ManyarEcommerce InfiniaLifepack Bandung</value>
+      <webElementGuid>8d80eda1-b76c-4829-a117-d541f9b4ed6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;manual-order-pharmapack&quot;)/div[@class=&quot;card-content&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns is-variable&quot;]/div[@class=&quot;column is-7&quot;]/div[@class=&quot;colums mt-4&quot;]/nav[@class=&quot;panel&quot;]/div[@class=&quot;panel-block&quot;]/div[@class=&quot;columns&quot;]/div[@class=&quot;column is-three-quarters&quot;]/div[@class=&quot;select&quot;]/select[1]</value>
+      <webElementGuid>2ef9efa7-942a-4a56-8a5e-f69e95273b41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='manual-order-pharmapack']/div/div/div/div[2]/div[6]/nav/div/div[2]/div[2]/div/select</value>
+      <webElementGuid>cab064e7-df22-45c6-a776-bdfb8bc2dfd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warehouse'])[2]/following::select[1]</value>
+      <webElementGuid>e79256b3-1f58-4a78-8b26-2da044b4c749</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Package Type'])[1]/following::select[2]</value>
+      <webElementGuid>88818d3d-b121-4456-99ee-5939f039f977</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Medication'])[1]/preceding::select[1]</value>
+      <webElementGuid>a2b1967d-fffc-4a0e-a43b-506d2b24a3c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info'])[1]/preceding::select[1]</value>
+      <webElementGuid>33372679-f240-4be3-b142-65a64dd14ce8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/div[2]/div[2]/div/select</value>
+      <webElementGuid>9a939da5-563e-47e7-8255-24ec6b0f7d96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Select WarehouseLifepack ManyarEcommerce InfiniaLifepack Bandung' or . = 'Select WarehouseLifepack ManyarEcommerce InfiniaLifepack Bandung')]</value>
+      <webElementGuid>4b2ddbaa-3ad1-4870-ac34-dbce7edf3e75</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pilih SatuanAmpulBagBakwanBarBatangBoto_f293aa</name>
+   <tag></tag>
+   <elementGuidId>9e3484e8-2b8c-4477-9b12-df217e526a17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='add-medication-dialog']/div/div[2]/section/div[2]/div/div[9]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d465693b-51f0-4ce4-9b2c-952b2ca99766</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>field-body</value>
+      <webElementGuid>d5824e65-39e4-4a50-a395-b5039fd7fbf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih SatuanAmpulBagBakwanBarBatangBotolBoxBox(100)Box(200)Box(50)Box(70)BuahBukuBungkusButirCanCapletCapsuleCardCartCaseCcCentimeterCupDoseDusEachFlakonFlexpenFlsGalonGlnGramIkatIuJerigenKalengKapletKapsulKarungKilogramKitKratLembarLiterLusinMcgMeterMiligramMililiterOvulaPackPackPasangPatchPcsPetiPiecePotPotongPouchRencengRimRollSachetSatu PekerjaanSatuan Siska TestingSatuan Testing 1Satuan TrainingSetSheetSisirSoftbagStripSuppositoriaSyiringeSyringeTabletTabungTestTesting 22TetesTopTubeUnitVialVt</value>
+      <webElementGuid>89877262-45cf-4c8b-8907-12cb09759328</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-medication-dialog&quot;)/div[@class=&quot;modal is-active&quot;]/div[@class=&quot;modal-card medication-dialog-add-parent&quot;]/section[@class=&quot;modal-card-body medication-dialog-edit-children&quot;]/div[2]/div[@class=&quot;dis-flex flex-col&quot;]/div[@class=&quot;field dis-flex&quot;]/div[@class=&quot;field-body&quot;]</value>
+      <webElementGuid>405c631f-7799-4bcb-98bb-c5b26a657073</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='add-medication-dialog']/div/div[2]/section/div[2]/div/div[9]/div[2]</value>
+      <webElementGuid>256055d8-84d2-4ea2-ba1b-629bc4fa39a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Satuan'])[1]/following::div[1]</value>
+      <webElementGuid>3869e369-9d3b-4810-8495-44c28ce41502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='X'])[1]/following::div[4]</value>
+      <webElementGuid>970611e0-c863-43f6-9230-a459aa9cd6b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warna Produk'])[1]/preceding::div[3]</value>
+      <webElementGuid>816a30c1-ceaa-4f54-9ad3-7385319ed8d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bentuk Produk'])[1]/preceding::div[7]</value>
+      <webElementGuid>db0d0028-9c61-4ade-9c46-e9088046b516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[2]</value>
+      <webElementGuid>80cdbef0-9bd3-4444-aec6-017ce7bad07b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pilih SatuanAmpulBagBakwanBarBatangBotolBoxBox(100)Box(200)Box(50)Box(70)BuahBukuBungkusButirCanCapletCapsuleCardCartCaseCcCentimeterCupDoseDusEachFlakonFlexpenFlsGalonGlnGramIkatIuJerigenKalengKapletKapsulKarungKilogramKitKratLembarLiterLusinMcgMeterMiligramMililiterOvulaPackPackPasangPatchPcsPetiPiecePotPotongPouchRencengRimRollSachetSatu PekerjaanSatuan Siska TestingSatuan Testing 1Satuan TrainingSetSheetSisirSoftbagStripSuppositoriaSyiringeSyringeTabletTabungTestTesting 22TetesTopTubeUnitVialVt' or . = 'Pilih SatuanAmpulBagBakwanBarBatangBotolBoxBox(100)Box(200)Box(50)Box(70)BuahBukuBungkusButirCanCapletCapsuleCardCartCaseCcCentimeterCupDoseDusEachFlakonFlexpenFlsGalonGlnGramIkatIuJerigenKalengKapletKapsulKarungKilogramKitKratLembarLiterLusinMcgMeterMiligramMililiterOvulaPackPackPasangPatchPcsPetiPiecePotPotongPouchRencengRimRollSachetSatu PekerjaanSatuan Siska TestingSatuan Testing 1Satuan TrainingSetSheetSisirSoftbagStripSuppositoriaSyiringeSyringeTabletTabungTestTesting 22TetesTopTubeUnitVialVt')]</value>
+      <webElementGuid>4671bb53-acf0-4f4a-a158-c9732da818b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

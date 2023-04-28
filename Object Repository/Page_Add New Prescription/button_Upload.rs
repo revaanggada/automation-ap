@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Upload</name>
+   <tag></tag>
+   <elementGuidId>31c0f359-10e5-4834-9ace-67eff7734f62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.button.is-outlined.small.ml-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='manual-order-pharmapack']/div/div/div/div/div/nav/div/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>70e9d78f-5d13-4c29-8940-3d05f5921dbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button is-outlined small ml-1</value>
+      <webElementGuid>c180c018-942f-4edb-9090-867746179bd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload</value>
+      <webElementGuid>1a2fc36a-3385-4f96-81ae-af69a6ac5b97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;manual-order-pharmapack&quot;)/div[@class=&quot;card-content&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns is-variable&quot;]/div[@class=&quot;column is-5 pos-relative&quot;]/div[@class=&quot;colums prescription-image-sticky&quot;]/nav[@class=&quot;panel&quot;]/div[@class=&quot;panel-block&quot;]/div[@class=&quot;action-image mt-2 dis-flex align-center&quot;]/button[@class=&quot;button is-outlined small ml-1&quot;]</value>
+      <webElementGuid>0a99fea3-276a-4556-ba92-3544280ef139</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='manual-order-pharmapack']/div/div/div/div/div/nav/div/div[2]/button</value>
+      <webElementGuid>ea4c870d-551b-475c-a039-73fc20498ac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Resep'])[1]/following::button[1]</value>
+      <webElementGuid>57fcb656-1d33-4c2a-8ff9-0311839b463e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lanjutkan'])[1]/following::button[2]</value>
+      <webElementGuid>ddcd7c57-c50f-42f1-bc1a-2bd3c277a66d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print'])[2]/preceding::button[1]</value>
+      <webElementGuid>20c6449b-1221-4788-b13a-4b8e3f4da268</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Funnel Category'])[1]/preceding::button[2]</value>
+      <webElementGuid>04026e61-a48e-44f4-b567-74d784c3fde2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Upload']/parent::*</value>
+      <webElementGuid>f63b008d-71d2-4c9f-8d47-46e0a1ec384c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/nav/div/div[2]/button</value>
+      <webElementGuid>7a207943-05f7-4b3d-8b7c-b9f30d09f7d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Upload' or . = 'Upload')]</value>
+      <webElementGuid>8a965db5-9602-4fbe-a82f-a8bf3bdf3b6d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

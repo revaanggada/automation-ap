@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pilih WarnaBlueOrangeGreenRedWhiteYello_ac253f</name>
+   <tag></tag>
+   <elementGuidId>f23cef39-744d-4712-8b4b-082e275e5e86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='add-medication-dialog']/div/div[2]/section/div[2]/div/div[10]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>273fd8bd-0ff1-4928-8d88-4a98ca1bfcc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>field-body</value>
+      <webElementGuid>b5fda828-9953-4022-a4c4-6c5731a1678d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih WarnaBlueOrangeGreenRedWhiteYellowPinkBlackBrown</value>
+      <webElementGuid>e5ff615e-d70b-4698-93cd-bfbc86ba7014</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-medication-dialog&quot;)/div[@class=&quot;modal is-active&quot;]/div[@class=&quot;modal-card medication-dialog-add-parent&quot;]/section[@class=&quot;modal-card-body medication-dialog-edit-children&quot;]/div[2]/div[@class=&quot;dis-flex flex-col&quot;]/div[@class=&quot;field dis-flex&quot;]/div[@class=&quot;field-body&quot;]</value>
+      <webElementGuid>e546b67e-6864-418e-a038-57c615aec697</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='add-medication-dialog']/div/div[2]/section/div[2]/div/div[10]/div[2]</value>
+      <webElementGuid>7b0f78f9-0d77-4b3d-9ee0-ce0785b55aeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warna Produk'])[1]/following::div[1]</value>
+      <webElementGuid>da69bf5b-cb6c-4ba6-93b0-c91c0b9c3fe9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Satuan'])[1]/following::div[6]</value>
+      <webElementGuid>25ec4968-964a-4082-8588-8dd62a4b34c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bentuk Produk'])[1]/preceding::div[2]</value>
+      <webElementGuid>f7d7a440-aed1-467c-a000-5525ec9195c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipe Sediaan'])[1]/preceding::div[6]</value>
+      <webElementGuid>8dad406c-b864-461f-9d98-6b0cd851beaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div[2]</value>
+      <webElementGuid>991cc597-a5ce-4198-b6e8-677b10dd7f0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pilih WarnaBlueOrangeGreenRedWhiteYellowPinkBlackBrown' or . = 'Pilih WarnaBlueOrangeGreenRedWhiteYellowPinkBlackBrown')]</value>
+      <webElementGuid>7887b56f-9157-4aeb-a781-b80d7145d8de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

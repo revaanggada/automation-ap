@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pilih RuteBelum DitentukanOralTopicalRe_ad48e0</name>
+   <tag></tag>
+   <elementGuidId>c9519d00-a7b6-4573-9edc-f388df7e38b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='add-medication-dialog']/div/div[2]/section/div[2]/div/div[6]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f8bdcb9d-5df4-4e78-bf0a-0e1336c22ba6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>field-body</value>
+      <webElementGuid>71fe2d11-4764-4e9d-9d38-e63e9820daf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih RuteBelum DitentukanOralTopicalRectalInhalationalTransdermalSublingual (Buccal)IntravenousIntramuscularSubcutaneousVaginalIntranasalIntraocularAuricular (Otic)Dental</value>
+      <webElementGuid>03733b3e-3f3c-4e78-abf1-3b77411c5c61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-medication-dialog&quot;)/div[@class=&quot;modal is-active&quot;]/div[@class=&quot;modal-card medication-dialog-add-parent&quot;]/section[@class=&quot;modal-card-body medication-dialog-edit-children&quot;]/div[2]/div[@class=&quot;dis-flex flex-col&quot;]/div[@class=&quot;field dis-flex&quot;]/div[@class=&quot;field-body&quot;]</value>
+      <webElementGuid>ec5a44d3-4de4-4ca0-a474-0f1b7f379327</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='add-medication-dialog']/div/div[2]/section/div[2]/div/div[6]/div[2]</value>
+      <webElementGuid>8799bbf6-a451-40a6-a671-2353ef8927ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rute Pemberian Obat*'])[1]/following::div[1]</value>
+      <webElementGuid>95d929a3-89f1-46fb-95fd-d351e942bfcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pagi at 07:00'])[1]/following::div[4]</value>
+      <webElementGuid>91bb15e0-fe5e-4dd9-8286-f62ef35c4657</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sebelum/Sesudah Makan*'])[1]/preceding::div[3]</value>
+      <webElementGuid>b0eaef32-f3d1-4412-b31b-506bb0cdcbfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Before/after has filled. Please, delete it first and choose another option.'])[1]/preceding::div[4]</value>
+      <webElementGuid>afa5153e-741a-45d7-8734-50797da7612a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]</value>
+      <webElementGuid>cc1ad5f0-6048-40e3-9499-5a8d01aa1038</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pilih RuteBelum DitentukanOralTopicalRectalInhalationalTransdermalSublingual (Buccal)IntravenousIntramuscularSubcutaneousVaginalIntranasalIntraocularAuricular (Otic)Dental' or . = 'Pilih RuteBelum DitentukanOralTopicalRectalInhalationalTransdermalSublingual (Buccal)IntravenousIntramuscularSubcutaneousVaginalIntranasalIntraocularAuricular (Otic)Dental')]</value>
+      <webElementGuid>3f994252-f8f1-4b06-a1bf-efe2c1929c46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

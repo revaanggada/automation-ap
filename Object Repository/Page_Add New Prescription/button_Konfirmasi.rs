@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Konfirmasi</name>
+   <tag></tag>
+   <elementGuidId>0fc9b36d-f687-4271-b0b8-e00200044663</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>footer.modal-card-foot.dis-flex.justify-end > button.button.is-info</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='submit-dialog-prescription']/div/div[2]/footer/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5349bb18-1a42-4c08-b5f8-50633d50d8ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button is-info</value>
+      <webElementGuid>ba357704-fa39-47f2-be35-494360488833</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Konfirmasi</value>
+      <webElementGuid>19f5b4a4-e4f3-41b0-be52-3f8742358377</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;submit-dialog-prescription&quot;)/div[@class=&quot;modal is-active&quot;]/div[@class=&quot;modal-card&quot;]/footer[@class=&quot;modal-card-foot dis-flex justify-end&quot;]/button[@class=&quot;button is-info&quot;]</value>
+      <webElementGuid>1262b873-2c21-4e96-b1d8-a22848a8f3ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='submit-dialog-prescription']/div/div[2]/footer/button</value>
+      <webElementGuid>f88f00c8-da00-4372-8167-05fc29f5ce9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[2]</value>
+      <webElementGuid>e3e61fe4-0494-4d5d-b599-342ed79b5945</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::button[3]</value>
+      <webElementGuid>46d0c4e7-fb69-435b-b24c-20d02070f956</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[2]/preceding::button[1]</value>
+      <webElementGuid>f9fd7398-3e44-49d6-81c1-50229fa92a15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Konfirmasi']/parent::*</value>
+      <webElementGuid>c09c19d9-f821-446c-8192-f7b59503da83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[2]/footer/button</value>
+      <webElementGuid>7a2cbf1c-6332-4ea0-b097-3c7ab8d115c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Konfirmasi' or . = 'Konfirmasi')]</value>
+      <webElementGuid>eac89f65-9be1-427b-bdc6-584ee5de61c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

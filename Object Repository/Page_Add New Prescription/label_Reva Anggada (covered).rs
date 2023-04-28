@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Reva Anggada (covered)</name>
+   <tag></tag>
+   <elementGuidId>5a4cd37d-ddb2-4e62-ba1d-e9303f3f4b8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.radio.radio-margin</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='manual-order-pharmapack']/div/div/div/div[2]/div[4]/nav/div/div[3]/div[2]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>2a362994-7027-456a-aa05-8d5545ac2f5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radio radio-margin</value>
+      <webElementGuid>3645ea83-d993-4011-b038-900507c19a15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reva Anggada (covered)</value>
+      <webElementGuid>40b04112-4a42-4415-81e2-1b7d3d4d2de3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;manual-order-pharmapack&quot;)/div[@class=&quot;card-content&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns is-variable&quot;]/div[@class=&quot;column is-7&quot;]/div[@class=&quot;colums mt-4&quot;]/nav[@class=&quot;panel&quot;]/div[@class=&quot;panel-block&quot;]/div[@class=&quot;columns&quot;]/div[@class=&quot;column is-three-quarters&quot;]/div[@class=&quot;control&quot;]/label[@class=&quot;radio radio-margin&quot;]</value>
+      <webElementGuid>e8b69b4b-0b74-45ee-8ae5-a21f6fd6e55e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='manual-order-pharmapack']/div/div/div/div[2]/div[4]/nav/div/div[3]/div[2]/div/label</value>
+      <webElementGuid>c4bc8c2a-0cb2-41ba-baa6-712ba9e3f635</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Member Name'])[1]/following::label[1]</value>
+      <webElementGuid>51045ac7-4790-469c-96cf-b81086df7df9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pasien ini menggunakan flow khusus partner. Klik untuk melihat flow.'])[1]/following::label[1]</value>
+      <webElementGuid>e7aae9cd-2605-421c-b77f-04759f5786a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rara'])[1]/preceding::label[2]</value>
+      <webElementGuid>2b2375bf-d31b-4252-ba2e-a0624e38ec9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/label</value>
+      <webElementGuid>4852879a-7751-49ce-97e8-5cc0b128d37c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Reva Anggada (covered)' or . = 'Reva Anggada (covered)')]</value>
+      <webElementGuid>280a3281-e7da-40c0-8be7-9badc2220ad1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
